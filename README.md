@@ -1,5 +1,5 @@
 # Contact Book Application
-**BSBA 23 Project – 23F-4046, 5012, 5013**
+*BSBA 23 Project – 23F-4046, 5012, 5013*
 
 A Python-based Contact Book with input validation, simple encryption, efficient storage, file saving, and a console menu. Includes sample data for quick startup.
 
