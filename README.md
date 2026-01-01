@@ -16,8 +16,3 @@ A Python-based Contact Book with input validation, simple encryption, efficient 
 2. Load contacts into storage.
 3. Use menu to manage contacts.
 4. Automatically save changes on exit.
-
-## Notes
-- Designed for small datasets; great for learning and basic use.
-- Combines list and dictionary for simplicity and performance.
-- Validation and encryption enhance usability and privacy.
